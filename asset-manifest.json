@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/%7BgitRepositoryUrl%7D/static/css/main.516eaa17.chunk.css",
-    "main.js": "/%7BgitRepositoryUrl%7D/static/js/main.21d8924c.chunk.js",
-    "main.js.map": "/%7BgitRepositoryUrl%7D/static/js/main.21d8924c.chunk.js.map",
-    "runtime-main.js": "/%7BgitRepositoryUrl%7D/static/js/runtime-main.4dedb22e.js",
-    "runtime-main.js.map": "/%7BgitRepositoryUrl%7D/static/js/runtime-main.4dedb22e.js.map",
-    "static/js/2.29cf895e.chunk.js": "/%7BgitRepositoryUrl%7D/static/js/2.29cf895e.chunk.js",
-    "static/js/2.29cf895e.chunk.js.map": "/%7BgitRepositoryUrl%7D/static/js/2.29cf895e.chunk.js.map",
-    "static/js/3.404aedc0.chunk.js": "/%7BgitRepositoryUrl%7D/static/js/3.404aedc0.chunk.js",
-    "static/js/3.404aedc0.chunk.js.map": "/%7BgitRepositoryUrl%7D/static/js/3.404aedc0.chunk.js.map",
-    "index.html": "/%7BgitRepositoryUrl%7D/index.html",
-    "static/css/main.516eaa17.chunk.css.map": "/%7BgitRepositoryUrl%7D/static/css/main.516eaa17.chunk.css.map",
-    "static/js/2.29cf895e.chunk.js.LICENSE.txt": "/%7BgitRepositoryUrl%7D/static/js/2.29cf895e.chunk.js.LICENSE.txt"
+    "main.css": "/yael-flowers/VideoConferenceClient/static/css/main.516eaa17.chunk.css",
+    "main.js": "/yael-flowers/VideoConferenceClient/static/js/main.0cbd5e31.chunk.js",
+    "main.js.map": "/yael-flowers/VideoConferenceClient/static/js/main.0cbd5e31.chunk.js.map",
+    "runtime-main.js": "/yael-flowers/VideoConferenceClient/static/js/runtime-main.6e3ec9ce.js",
+    "runtime-main.js.map": "/yael-flowers/VideoConferenceClient/static/js/runtime-main.6e3ec9ce.js.map",
+    "static/js/2.29cf895e.chunk.js": "/yael-flowers/VideoConferenceClient/static/js/2.29cf895e.chunk.js",
+    "static/js/2.29cf895e.chunk.js.map": "/yael-flowers/VideoConferenceClient/static/js/2.29cf895e.chunk.js.map",
+    "static/js/3.404aedc0.chunk.js": "/yael-flowers/VideoConferenceClient/static/js/3.404aedc0.chunk.js",
+    "static/js/3.404aedc0.chunk.js.map": "/yael-flowers/VideoConferenceClient/static/js/3.404aedc0.chunk.js.map",
+    "index.html": "/yael-flowers/VideoConferenceClient/index.html",
+    "static/css/main.516eaa17.chunk.css.map": "/yael-flowers/VideoConferenceClient/static/css/main.516eaa17.chunk.css.map",
+    "static/js/2.29cf895e.chunk.js.LICENSE.txt": "/yael-flowers/VideoConferenceClient/static/js/2.29cf895e.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4dedb22e.js",
+    "static/js/runtime-main.6e3ec9ce.js",
     "static/js/2.29cf895e.chunk.js",
     "static/css/main.516eaa17.chunk.css",
-    "static/js/main.21d8924c.chunk.js"
+    "static/js/main.0cbd5e31.chunk.js"
   ]
 }
