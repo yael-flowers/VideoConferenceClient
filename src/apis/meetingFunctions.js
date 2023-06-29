@@ -1,5 +1,5 @@
 import axios from "axios";
-import { meetingId, users } from "../keys/screen";
+import { meetingId } from "../keys/screen";
 import {
   HANDLE_MUTE_PARTICIPANT,
   MUTE_ALL_PARTICIPANTS,
@@ -17,12 +17,10 @@ export const muteAllParticipants = async () => {
 
 export const getMeetingName = () => {
   const response = axios.get(`${GET_MEETING_NAME}${meetingId}`);
-  // return response?.data;
-  return "meeting";
+  return response?.data;
 };
 
 export const fetchMeetingUsers = () => {
   const response = axios.get(`${GET_MEETING_PARTICIPANTS}${meetingId}`);
-  // return response?.data;
-  return users;
+  return response?.data;
 };
